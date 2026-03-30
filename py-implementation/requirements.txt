@@ -1,0 +1,17 @@
+# Core dependencies (all open source)
+requests>=2.31.0         # Apache 2.0 - HTTP client for SAP AI Core
+networkx>=3.2.1          # BSD 3-Clause - Graph analysis
+Jinja2>=3.1.3            # BSD 3-Clause - HTML templating
+
+# Code parsing (all open source)
+# ast module is built-in Python (Python Software Foundation License)
+
+# Diagram generation (open source)
+# PlantUML sources saved as .puml text files (no external dependency needed)
+
+# CLI (all open source)
+click>=8.1.7             # BSD 3-Clause - CLI framework
+rich>=13.7.0             # MIT - Terminal formatting
+
+# Utilities (all open source)
+pyyaml>=6.0.1            # MIT - YAML parsing
